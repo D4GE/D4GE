@@ -86,11 +86,10 @@
       <version>1.2</version>  <!-- Spark's own CLI is version 1.2. -->
     </dependency>
 
-    <!-- https://github.com/superliuxz/HadoopWebGraph -->
     <dependency>
-      <groupId>com.github.superliuxz</groupId>
+      <groupId>com.github.D4GE</groupId>
       <artifactId>HadoopWebGraph</artifactId>
-      <version>f334226</version>
+      <version>36de863</version>
     </dependency>
 
   </dependencies>
